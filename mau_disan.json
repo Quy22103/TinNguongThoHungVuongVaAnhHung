@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "ten_chinh_thuc": "",
+  "ten_goi_khac": [],
+  "nhom_chu_de": "",
+  "loai_hinh": "",
+  "nhan_vat_tho_phung": [],
+  "dia_phuong": {
+    "tinh_thanh": "",
+    "quan_huyen": "",
+    "xa_phuong": "",
+    "dia_chi": ""
+  },
+  "toa_do": {
+    "vi_do": null,
+    "kinh_do": null
+  },
+  "mo_ta_dac_trung": "",
+  "le_thuc": [],
+  "truyen_thuyet": [],
+  "lich_su_hinh_thanh": [],
+  "thong_tin_ghi_danh": [],
+  "hinh_anh_tu_lieu": [],
+  "nguon_tu_lieu": [],
+  "trang_thai_xac_minh": "chua_xac_minh",
+  "ngay_cap_nhat": ""
+}

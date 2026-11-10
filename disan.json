@@ -1,0 +1,789 @@
+[
+  {
+    "id": "DS001",
+    "ten_chinh_thuc": "Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ",
+    "ten_goi_khac": [
+      "Tín ngưỡng thờ Quốc Tổ Hùng Vương",
+      "Tín ngưỡng Hùng Vương"
+    ],
+    "nhom_chu_de": "Tín ngưỡng thờ cúng Hùng Vương",
+    "loai_hinh": "Di sản văn hóa phi vật thể đại diện của nhân loại",
+    "nhan_vat_tho_phung": [
+      "Các Vua Hùng",
+      "Quốc Tổ Lạc Long Quân",
+      "Tổ Mẫu Âu Cơ"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Phú Thọ",
+      "quan_huyen": "Thành phố Việt Trì, huyện Lâm Thao, huyện Phù Ninh",
+      "xa_phuong": "Xã Hy Cương, xã Chu Hóa, xã Tiên Kiên",
+      "dia_chi": "Khu di tích lịch sử Đền Hùng và các làng xã vùng ven chân núi Nghĩa Lĩnh"
+    },
+    "toa_do": {
+      "vi_do": 21.3916,
+      "kinh_do": 105.3283
+    },
+    "mo_ta_dac_trung": "Tín ngưỡng thờ cúng Hùng Vương là một thực hành văn hóa - tâm linh đặc biệt của cộng đồng người Việt, bắt nguồn từ tục thờ tổ tiên, thể hiện đạo lý 'Uống nước nhớ nguồn', suy tôn các Vua Hùng là Thủy tổ dựng nước Văn Lang.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ Giỗ Tổ Hùng Vương mùng 10 tháng 3 âm lịch",
+        "thoi_gian": "Ngày mùng 10 tháng 3 âm lịch hàng năm",
+        "noi_dung": "Nghi thức dâng hương cấp quốc gia tại Đền Thượng do lãnh đạo Đảng, Nhà nước và tỉnh Phú Thọ chủ trì, cùng lễ rước kiệu của các xã vùng ven Đền Hùng.",
+        "ma_nguon": "SRC001"
+      },
+      {
+        "tieu_de": "Nghi thức rước kiệu truyền thống của các xã ven di tích",
+        "thoi_gian": "Từ ngày mùng 1 đến mùng 9 tháng 3 âm lịch",
+        "noi_dung": "Đoàn kiệu bát cống rước lễ vật gồm bánh chưng, bánh giầy, xôi hoa, trầu cau từ các làng Hy Cương, Chu Hóa, Hùng Lô lên chân núi Nghĩa Lĩnh.",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Truyền thuyết Bọc trăm trứng và Nguồn gốc con Rồng cháu Tiên",
+        "noi_dung": "Lạc Long Quân kết duyên cùng Âu Cơ, sinh bọc trăm trứng nở trăm người con. 50 con theo cha xuống biển, 50 con theo mẹ lên núi. Người con trưởng ở lại Phong Châu được tôn làm Vua Hùng, lập ra nước Văn Lang.",
+        "tinh_chat": "Truyền thuyết dân gian",
+        "ma_nguon": "SRC001"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Thời đại dựng nước Hùng Vương đến thời phong kiến",
+        "noi_dung": "Tín ngưỡng phát triển liên tục qua nhiều thế kỷ. Thời Hậu Lê và thời Nguyễn, Nhà nước phong kiến đã sắc phong, ban cấp tiền thuế, ruộng đất để dân sở tại làm 'con trưởng tạo lệ' khói hương phụng thờ.",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di sản văn hóa phi vật thể đại diện của nhân loại",
+        "co_quan": "UNESCO",
+        "nam": 2012,
+        "van_ban": "Quyết định số 7.COM 11.36 ngày 06/12/2012",
+        "ma_nguon": "SRC001"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Không gian lễ hội dâng hương và rước kiệu tại Đền Hùng - Phú Thọ",
+        "nguon_anh": "Ảnh tư liệu sinh hoạt văn hóa dân gian vùng Đất Tổ",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC001",
+      "SRC002",
+      "SRC004",
+      "SRC006"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS002",
+    "ten_chinh_thuc": "Khu di tích lịch sử Đền Hùng",
+    "ten_goi_khac": [
+      "Khu di tích Đền Hùng",
+      "Di tích lịch sử Đền Hùng núi Nghĩa Lĩnh"
+    ],
+    "nhom_chu_de": "Di tích và địa điểm thờ tự",
+    "loai_hinh": "Di tích quốc gia đặc biệt",
+    "nhan_vat_tho_phung": [
+      "18 đời Vua Hùng",
+      "Công chúa Tiên Dung",
+      "Công chúa Ngọc Hoa",
+      "Thần Lúa"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Phú Thọ",
+      "quan_huyen": "Thành phố Việt Trì",
+      "xa_phuong": "Xã Hy Cương",
+      "dia_chi": "Núi Nghĩa Lĩnh, thôn Cổ Tích, xã Hy Cương, TP. Việt Trì, tỉnh Phú Thọ"
+    },
+    "toa_do": {
+      "vi_do": 21.3934,
+      "kinh_do": 105.3289
+    },
+    "mo_ta_dac_trung": "Khu di tích lịch sử Đền Hùng nằm trên núi Nghĩa Lĩnh cao 175m, gồm hệ thống đền thờ từ chân núi lên đỉnh: Đền Hạ, Chùa Thiên Quang, Đền Trung, Đền Thượng, Lăng Hùng Vương và Đền Giếng ở chân núi phía đông nam.",
+    "le_thuc": [
+      {
+        "tieu_de": "Nghi thức dâng hương tế lễ tại Đền Thượng",
+        "thoi_gian": "Sáng mùng 10 tháng 3 âm lịch",
+        "noi_dung": "Đọc chúc văn tưởng nhớ công đức Hùng Vương, dâng lễ vật bánh chưng, bánh giầy và sản vật Đất Tổ.",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Truyền thuyết nơi đặt bàn thờ trời đất",
+        "noi_dung": "Dân gian truyền rằng Đền Thượng trên đỉnh Nghĩa Lĩnh là nơi các Vua Hùng thời cổ tiến hành lễ tế Trọng thể cầu trời đất cho mưa thuận gió hòa, mùa màng bội thu.",
+        "tinh_chat": "Truyền thuyết dân gian",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Khảo cổ học và kiến trúc các thời đại",
+        "noi_dung": "Di chỉ khảo cổ học Đền Hùng phản ánh sự cư trú liên tục từ thời văn hóa Đông Sơn. Kiến trúc các ngôi đền hiện nay chủ yếu được trùng tu, tôn tạo dưới thời Hậu Lê và thời Nguyễn (cuối thế kỷ XIX - đầu thế kỷ XX).",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2009,
+        "van_ban": "Quyết định số 1272/QĐ-TTg ngày 12/8/2009",
+        "ma_nguon": "SRC003"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Cổng vào và lối bậc đá dẫn lên đỉnh núi Nghĩa Lĩnh - Khu di tích Đền Hùng",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Khu di tích Đền Hùng",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC003",
+      "SRC004",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS003",
+    "ten_chinh_thuc": "Đền Quốc Tổ Lạc Long Quân tại Khu di tích Đền Hùng",
+    "ten_goi_khac": [
+      "Đền thờ Quốc Tổ Lạc Long Quân",
+      "Đền Lạc Long Quân Đồi Sim"
+    ],
+    "nhom_chu_de": "Di tích và địa điểm thờ tự",
+    "loai_hinh": "Công trình tín ngưỡng thờ tự truyền thống",
+    "nhan_vat_tho_phung": [
+      "Quốc Tổ Lạc Long Quân",
+      "Thái sư Quốc phụ",
+      "Đệ nhất Đệ nhị cựu thần Lạc tướng"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Phú Thọ",
+      "quan_huyen": "Thành phố Việt Trì",
+      "xa_phuong": "Xã Chu Hóa",
+      "dia_chi": "Đồi Sim, xã Chu Hóa, TP. Việt Trì (thuộc Khu di tích lịch sử Đền Hùng)"
+    },
+    "toa_do": {
+      "vi_do": 21.3789,
+      "kinh_do": 105.3256
+    },
+    "mo_ta_dac_trung": "Đền được quy hoạch xây dựng trên đồi Sim với diện tích khuôn viên 13,79 ha theo phong thủy hình rùa quay đầu về Đền Hùng. Kiến trúc theo kiểu chữ 'Đinh' gồm tiền tế, đại bái và hậu cung.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ giỗ Đức Quốc Tổ Lạc Long Quân ngày mùng 6 tháng 3 âm lịch",
+        "thoi_gian": "Ngày mùng 6 tháng 3 âm lịch",
+        "noi_dung": "Mở đầu chuỗi hoạt động Giỗ Tổ Hùng Vương hàng năm, đại diện chính quyền và nhân dân dâng hương hoa lễ phẩm tri ân công đức Đức Thủy Tổ.",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Hình tượng Lạc Long Quân - Thần Rồng khai phá đất đai",
+        "noi_dung": "Theo Lĩnh Nam chích quái và Đại Việt sử ký toàn thư, Lạc Long Quân là con Kinh Dương Vương, kết duyên cùng Âu Cơ, dạy dân nghề trồng lúa nước, đánh diệt Ngư Tinh, Hồ Tinh, Mộc Tinh bảo vệ dân lành.",
+        "tinh_chat": "Truyền thuyết dân gian",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Khởi công và khánh thành (2007 - 2009)",
+        "noi_dung": "Được Nhà nước phê duyệt trong quy hoạch tổng thể Khu di tích lịch sử Đền Hùng, khởi công năm 2007 và chính thức khánh thành vào ngày 26/3/2009 (mùng 1 tháng 3 năm Kỷ Sửu).",
+        "ma_nguon": "SRC004"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Công trình nằm trong phạm vi bảo vệ Di tích quốc gia đặc biệt Đền Hùng",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2009,
+        "van_ban": "Quyết định số 1272/QĐ-TTg ngày 12/8/2009",
+        "ma_nguon": "SRC003"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Không gian kiến trúc Đền Quốc Tổ Lạc Long Quân tọa lạc trên đồi Sim",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Khu di tích lịch sử Đền Hùng",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC003",
+      "SRC004",
+      "SRC006"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS004",
+    "ten_chinh_thuc": "Đền Mẫu Âu Cơ ở Phú Thọ",
+    "ten_goi_khac": [
+      "Đền Mẫu Âu Cơ Hiền Lương",
+      "Đền thờ Quốc Mẫu Âu Cơ"
+    ],
+    "nhom_chu_de": "Tín ngưỡng thờ cúng Hùng Vương",
+    "loai_hinh": "Di tích lịch sử văn hóa cấp quốc gia và Di sản văn hóa phi vật thể quốc gia",
+    "nhan_vat_tho_phung": [
+      "Quốc Mẫu Âu Cơ"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Phú Thọ",
+      "quan_huyen": "Huyện Hạ Hòa",
+      "xa_phuong": "Xã Hiền Lương",
+      "dia_chi": "Thôn Hiền Lương, xã Hiền Lương, huyện Hạ Hòa, tỉnh Phú Thọ"
+    },
+    "toa_do": {
+      "vi_do": 21.5721,
+      "kinh_do": 105.0442
+    },
+    "mo_ta_dac_trung": "Đền thờ Quốc Mẫu Âu Cơ nằm ẩn mình dưới tán cây đa cổ thụ hàng trăm năm tuổi bên tả ngạn sông Thao. Tương truyền đây là nơi Quốc Mẫu dừng chân dạy dân khai hoang trồng dâu, nuôi tằm dệt vải trước khi bay về trời.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội Đền Mẫu Âu Cơ ngày mùng 7 tháng Giêng",
+        "thoi_gian": "Ngày mùng 7 tháng Giêng âm lịch",
+        "noi_dung": "Đặc trưng bởi nghi lễ tế nữ quan do đội tế gồm các trinh nữ mặc lễ phục truyền thống sắc sảo thực hiện, dâng 100 phẩm vật tượng trưng cho 100 người con.",
+        "ma_nguon": "SRC005"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Truyền thuyết Mẫu Âu Cơ hóa tiên tại Hiền Lương",
+        "noi_dung": "Sau khi đưa 50 con lên non, Mẫu Âu Cơ dừng lại tại đất Hiền Lương, hướng dẫn nhân dân thuần dưỡng ngũ cốc, chăn tằm rồi ngày 25 tháng Chạp cùng mây gió thăng hoa về cõi tiên để lại dải yếm lụa.",
+        "tinh_chat": "Truyền thuyết dân gian",
+        "ma_nguon": "SRC005"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Thế kỷ XV thời vua Lê Thánh Tông",
+        "noi_dung": "Thời vua Lê Thánh Tông đã phong sắc và cho lập đền thờ chính quy tại xã Hiền Lương; các triều đại sau đều tiếp tục ban sắc phong tôn kính vị Quốc Mẫu.",
+        "ma_nguon": "SRC005"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích lịch sử văn hóa cấp quốc gia",
+        "co_quan": "Bộ Văn hóa - Thông tin",
+        "nam": 1991,
+        "van_ban": "Quyết định xếp hạng năm 1991",
+        "ma_nguon": "SRC005"
+      },
+      {
+        "danh_hieu": "Di sản văn hóa phi vật thể quốc gia (Lễ hội Đền Mẫu Âu Cơ)",
+        "co_quan": "Bộ Văn hóa, Thể thao và Du lịch",
+        "nam": 2017,
+        "van_ban": "Quyết định số 4069/QĐ-BVHTTDL ngày 30/10/2017",
+        "ma_nguon": "SRC005"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Cảnh quan đền Mẫu Âu Cơ yên bình bên dòng sông Thao xã Hiền Lương",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Di tích Đền Mẫu Âu Cơ",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC005",
+      "SRC006",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS005",
+    "ten_chinh_thuc": "Đền thờ Hai Bà Trưng tại Mê Linh",
+    "ten_goi_khac": [
+      "Đền Hai Bà Trưng Hạ Lôi",
+      "Đền Mê Linh"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích quốc gia đặc biệt",
+    "nhan_vat_tho_phung": [
+      "Trưng Trắc",
+      "Trưng Nhị",
+      "Thân phụ Trưng Định",
+      "Thân mẫu Trần Thị Đoan",
+      "Các nữ tướng cuộc khởi nghĩa Hai Bà Trưng"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Hà Nội",
+      "quan_huyen": "Huyện Mê Linh",
+      "xa_phuong": "Xã Mê Linh",
+      "dia_chi": "Thôn Hạ Lôi, xã Mê Linh, huyện Mê Linh, thành phố Hà Nội"
+    },
+    "toa_do": {
+      "vi_do": 21.1738,
+      "kinh_do": 105.7272
+    },
+    "mo_ta_dac_trung": "Đền tọa lạc trên vùng đất tụ linh tụ phúc, diện tích khuôn viên rộng gần 13 ha. Đền được xây dựng theo lối 'nội công ngoại quốc' bằng gỗ lim chạm khắc hoa văn tinh xảo đề tài rồng phượng thế kỷ XVII - XIX.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội Đền Hai Bà Trưng mùng 6 tháng Giêng",
+        "thoi_gian": "Ngày mùng 6 đến mùng 10 tháng Giêng âm lịch",
+        "noi_dung": "Lễ hội tưởng nhớ ngày Hai Bà Trưng tế cờ khởi nghĩa giành độc lập năm 40 sau Công nguyên. Nghi thức nổi bật là Lễ rước kiệu giao kiệu và rước nước từ sông Hồng về Đền làm lễ mộc dục.",
+        "ma_nguon": "SRC007"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Lời thề Hát Môn và Cuộc khởi nghĩa đầu tiên chống Bắc thuộc",
+        "noi_dung": "Trước cảnh nước mất nhà tan, chồng là Thi Sách bị Tô Định sát hại, hai chị em Trưng Trắc - Trưng Nhị dựng cờ khởi nghĩa: 'Một xin rửa sạch nước thù / Hai xin dựng lại nghiệp xưa họ Hùng'. 65 thành trì quy phục, Trưng Trắc xưng vương.",
+        "tinh_chat": "Sự kiện lịch sử kết hợp truyền thuyết dân gian",
+        "ma_nguon": "SRC007"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Từ thế kỷ I đến thời hiện đại",
+        "noi_dung": "Dân làng Hạ Lôi tương truyền dựng miếu thờ Hai Bà từ thời xa xưa ngay trên đất đóng đô cũ. Đền qua các triều Đinh, Tiền Lê, Lý, Trần, Hậu Lê, Nguyễn liên tục được tu bổ quy mô lớn.",
+        "ma_nguon": "SRC007"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2013,
+        "van_ban": "Quyết định số 2383/QĐ-TTg ngày 09/12/2013",
+        "ma_nguon": "SRC007"
+      },
+      {
+        "danh_hieu": "Di sản văn hóa phi vật thể quốc gia (Lễ hội Đền Hai Bà Trưng Mê Linh)",
+        "co_quan": "Bộ Văn hóa, Thể thao và Du lịch",
+        "nam": 2018,
+        "van_ban": "Quyết định của Bộ VHTTDL năm 2018",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Nghi môn và sân rước tế lễ Đền thờ Hai Bà Trưng tại Hạ Lôi, Mê Linh",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Di tích Đền Hai Bà Trưng",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC007",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS006",
+    "ten_chinh_thuc": "Đền thờ và Lăng Ngô Quyền ở Đường Lâm",
+    "ten_goi_khac": [
+      "Đền thờ Tiền Ngô Vương Ngô Quyền",
+      "Lăng vua Ngô Quyền thôn Cam Lâm"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích lịch sử văn hóa cấp quốc gia",
+    "nhan_vat_tho_phung": [
+      "Tiền Ngô Vương Ngô Quyền"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Hà Nội",
+      "quan_huyen": "Thị xã Sơn Tây",
+      "xa_phuong": "Xã Đường Lâm",
+      "dia_chi": "Đồi Cấm, thôn Cam Lâm, xã Đường Lâm, thị xã Sơn Tây, TP. Hà Nội"
+    },
+    "toa_do": {
+      "vi_do": 21.1447,
+      "kinh_do": 105.4856
+    },
+    "mo_ta_dac_trung": "Quần thể đền và lăng tọa lạc trên đồi Cấm có địa thế hổ chầu long phục nhìn ra cánh đồng thung lũng rộng lớn. Đền có đại bái, hậu cung uy nghiêm, phía trước có rặng rặng cây duối cổ tương truyền là nơi buộc voi chiến của Ngô Quyền.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội kỷ niệm ngày giỗ vua Ngô Quyền",
+        "thoi_gian": "Ngày 16 tháng Giêng âm lịch",
+        "noi_dung": "Nhân dân Đường Lâm và hậu duệ họ Ngô khắp nơi tề tựu rước kiệu tế lễ, ôn lại chiến công oanh liệt đánh cọc ngầm trên sông Bạch Đằng năm 938.",
+        "ma_nguon": "SRC008"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Chiến thắng Bạch Đằng năm 938 và mở nền độc lập dân tộc",
+        "noi_dung": "Ngô Quyền dùng mưu cắm cọc vạt nhọn bọc sắt dưới lòng sông Bạch Đằng, nhử thủy quân Nam Hán khi thủy triều dâng rồi phản công khi triều rút, tiêu diệt hoàn toàn quân giặc, mở ra kỷ nguyên độc lập tự chủ lâu dài cho dân tộc.",
+        "tinh_chat": "Sự kiện lịch sử đã được khẳng định trong chính sử",
+        "ma_nguon": "SRC008"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Thời phong kiến và trùng tu thời Tự Đức",
+        "noi_dung": "Đền được dân làng lập nên sau khi vua Ngô Quyền băng hà tại Cổ Loa năm 944. Lăng mộ hiện tại được trùng tu lớn vào năm Tự Đức thứ 27 (1874) với tấm bia đá khắc dòng chữ Hán 'Tiền Ngô Vương Lăng'.",
+        "ma_nguon": "SRC008"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích lịch sử - văn hóa cấp quốc gia (thuộc Quần thể Làng cổ Đường Lâm)",
+        "co_quan": "Bộ Văn hóa - Thông tin",
+        "nam": 2005,
+        "van_ban": "Quyết định số 102/2005/QĐ-BVHTT ngày 28/11/2005",
+        "ma_nguon": "SRC008"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Cổng cổ và cảnh quan Lăng vua Ngô Quyền tọa lạc trên đồi Cấm thôn Cam Lâm",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Di tích Làng cổ Đường Lâm",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC008",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS007",
+    "ten_chinh_thuc": "Khu di tích Kiếp Bạc gắn với Hưng Đạo Đại Vương Trần Quốc Tuấn",
+    "ten_goi_khac": [
+      "Đền Kiếp Bạc",
+      "Khu di tích lịch sử Côn Sơn - Kiếp Bạc"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích quốc gia đặc biệt",
+    "nhan_vat_tho_phung": [
+      "Quốc công Tiết chế Hưng Đạo Đại Vương Trần Quốc Tuấn",
+      "Phu nhân Ánh Tuyết",
+      "Đệ nhất Khâm từ Bảo thánh Hoàng hậu",
+      "Đệ nhị Tuyên Từ Hoàng hậu",
+      "Tướng quân Yết Kiêu",
+      "Tướng quân Dã Tượng"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Hải Dương",
+      "quan_huyen": "Thành phố Chí Linh",
+      "xa_phuong": "Xã Hưng Đạo",
+      "dia_chi": "Thôn Dược Sơn và Vạn Kiếp, xã Hưng Đạo, TP. Chí Linh, tỉnh Hải Dương"
+    },
+    "toa_do": {
+      "vi_do": 21.1345,
+      "kinh_do": 106.3887
+    },
+    "mo_ta_dac_trung": "Đền nằm ở thung lũng trù phú hình hạt gạo kẹp giữa núi Rồng, nhìn ra ngã sáu sông Lục Đầu. Đây là căn cứ quân sự Vạn Kiếp hiểm yếu thời nhà Trần nơi Hưng Đạo Đại Vương lập tổng hành dinh chỉ huy kháng chiến chống quân Nguyên Mông.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội mùa thu Kiếp Bạc và Hội quân trên sông Lục Đầu",
+        "thoi_gian": "Từ ngày 15 đến 20 tháng 8 âm lịch",
+        "noi_dung": "Lễ tưởng niệm ngày mất của Đức Thánh Trần (20/8 âm lịch). Nét đặc sắc nhất là diễn xướng Lễ hội quân sông Lục Đầu với hàng trăm thuyền chiến biểu diễn trận đồ thủy chiến tái hiện hào khí Đông A.",
+        "ma_nguon": "SRC009"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Tín ngưỡng Đức Thánh Trần trừ tà diệt ác trong dân gian",
+        "noi_dung": "Dân gian suy tôn Hưng Đạo Đại Vương là Đức Thánh Trần, Thượng đẳng Phúc thần, có quyền năng trừ tà bảo hộ bình an cho muôn dân, sinh thành câu phương ngôn 'Tháng Tám giỗ Cha, tháng Ba giỗ Mẹ'.",
+        "tinh_chat": "Tín ngưỡng dân gian phối hợp thực hành tâm linh",
+        "ma_nguon": "SRC009"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Thế kỷ XIII đến thời hiện đại",
+        "noi_dung": "Được xây dựng ngay sau khi Hưng Đạo Đại Vương qua đời năm 1300 trên nền dinh thự cũ. Qua nhiều triều đại được tu bổ mở rộng thành quần thể di tích bề thế ven sông Lục Đầu.",
+        "ma_nguon": "SRC009"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt (thuộc Khu di tích Côn Sơn - Kiếp Bạc)",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2012,
+        "van_ban": "Quyết định số 548/QĐ-TTg ngày 10/5/2012",
+        "ma_nguon": "SRC009"
+      },
+      {
+        "danh_hieu": "Di sản văn hóa phi vật thể quốc gia (Lễ hội đền Kiếp Bạc)",
+        "co_quan": "Bộ Văn hóa, Thể thao và Du lịch",
+        "nam": 2012,
+        "van_ban": "Quyết định của Bộ VHTTDL năm 2012",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Mặt tiền Đền Kiếp Bạc hướng ra sông Lục Đầu lịch sử tại Chí Linh",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Di tích Côn Sơn - Kiếp Bạc",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC009",
+      "SRC003",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS008",
+    "ten_chinh_thuc": "Khu di tích Đền Trần ở Nam Định",
+    "ten_goi_khac": [
+      "Đền Trần Nam Định",
+      "Khu di tích lịch sử - văn hóa Đền Trần - Chùa Phổ Minh"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích quốc gia đặc biệt",
+    "nhan_vat_tho_phung": [
+      "14 vị Hoàng đế triều Trần",
+      "Hưng Đạo Đại Vương Trần Quốc Tuấn",
+      "Các quan lại và tướng lĩnh có công triều Trần"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Nam Định",
+      "quan_huyen": "Thành phố Nam Định",
+      "xa_phuong": "Phường Lộc Vượng",
+      "dia_chi": "Đường Trần Thừa, phường Lộc Vượng, TP. Nam Định, tỉnh Nam Định"
+    },
+    "toa_do": {
+      "vi_do": 20.4485,
+      "kinh_do": 106.1772
+    },
+    "mo_ta_dac_trung": "Khu di tích được xây dựng trên nền cung Trùng Quang và cung Trùng Hoa thời Trần. Quần thể gồm 3 đền: Đền Thiên Trường (thờ 14 vua Trần), Đền Cố Trạch (thờ Trần Hưng Đạo và gia quyến), Đền Trùng Hoa (thờ tượng đồng 14 vị vua Trần).",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ Khai ấn Đền Trần đêm 14 rạng sáng 15 tháng Giêng",
+        "thoi_gian": "Đêm 14 rạng ngày 15 tháng Giêng âm lịch",
+        "noi_dung": "Nghi thức dâng ấn, rước kiệu ấn từ Đền Cố Trạch sang Đền Thiên Trường, thực hiện các nghi thức tế bái và phát lộc ấn cho nhân dân cầu quốc thái dân an, công thành danh toại.",
+        "ma_nguon": "SRC010"
+      },
+      {
+        "tieu_de": "Lễ hội mùa thu Đền Trần tháng Tám âm lịch",
+        "thoi_gian": "Từ 15 đến 20 tháng 8 âm lịch",
+        "noi_dung": "Tế lễ truyền thống, rước nước, tế cá, múa rồng lân tưởng niệm ngày mất của Đức Thánh Trần.",
+        "ma_nguon": "SRC010"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Nguồn gốc phong tục Khai ấn triều Trần",
+        "noi_dung": "Tương truyền vào dịp đầu xuân sau kỳ nghỉ tết, vua quan nhà Trần làm lễ tế trời đất tiên tổ và mở ấn triều chính để bắt đầu công việc năm mới, thể hiện sự chăm lo muôn dân việc nước.",
+        "tinh_chat": "Tập tục lịch sử kết hợp tín ngưỡng",
+        "ma_nguon": "SRC010"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Thế kỷ XIII và phục dựng thời Hậu Lê, Nguyễn",
+        "noi_dung": "Năm 1258 sau chiến thắng chống Nguyên Mông lần 1, vua Trần Thái Tông cho xây hành cung Tức Mặc. Cung điện bị giặc tàn phá trong các đợt chiến tranh sau, được người dân dựng đền miếu phụng thờ liên tục đến nay.",
+        "ma_nguon": "SRC010"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2012,
+        "van_ban": "Quyết định số 1419/QĐ-TTg ngày 27/9/2012",
+        "ma_nguon": "SRC010"
+      },
+      {
+        "danh_hieu": "Di sản văn hóa phi vật thể quốc gia (Lễ hội Đền Trần)",
+        "co_quan": "Bộ Văn hóa, Thể thao và Du lịch",
+        "nam": 2014,
+        "van_ban": "Quyết định của Bộ VHTTDL năm 2014",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Không gian Đền Thiên Trường trong quần thể di tích Đền Trần Nam Định",
+        "nguon_anh": "Ảnh tư liệu Cổng thông tin điện tử tỉnh Nam Định",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC010",
+      "SRC003",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS009",
+    "ten_chinh_thuc": "Khu di tích Cố đô Hoa Lư gắn với Đinh Tiên Hoàng và Lê Đại Hành",
+    "ten_goi_khac": [
+      "Cố đô Hoa Lư",
+      "Di tích lịch sử văn hóa Cố đô Hoa Lư"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích quốc gia đặc biệt và Di sản thế giới",
+    "nhan_vat_tho_phung": [
+      "Vua Đinh Tiên Hoàng (Đinh Bộ Lĩnh)",
+      "Vua Lê Đại Hành (Lê Hoàn)",
+      "Thái hậu Dương Vân Nga",
+      "Các hoàng tử triều Đinh và triều Tiền Lê"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Ninh Bình",
+      "quan_huyen": "Huyện Hoa Lư",
+      "xa_phuong": "Xã Trường Yên",
+      "dia_chi": "Thôn Chi Phong, xã Trường Yên, huyện Hoa Lư, tỉnh Ninh Bình"
+    },
+    "toa_do": {
+      "vi_do": 20.2858,
+      "kinh_do": 105.9036
+    },
+    "mo_ta_dac_trung": "Kinh đô đầu tiên của nhà nước phong kiến tập quyền Việt Nam khi Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, định đô năm 968. Địa hình núi đá vôi tự nhiên kết hợp thành lũy nhân tạo, gồm Đền thờ Vua Đinh Tiên Hoàng và Đền thờ Vua Lê Đại Hành cách nhau khoảng 500m.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội Hoa Lư mùng 8 đến mùng 10 tháng 3 âm lịch",
+        "thoi_gian": "Ngày mùng 8 đến mùng 10 tháng 3 âm lịch",
+        "noi_dung": "Lễ rước nước từ sông Hoàng Long về tế lễ tại đền thờ Vua Đinh, lễ rước kiệu, cờ lau tập trận tái hiện hình ảnh tuổi thơ Đinh Bộ Lĩnh.",
+        "ma_nguon": "SRC011"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Cờ lau tập trận và sự tích rồng vàng che chở Đinh Bộ Lĩnh",
+        "noi_dung": "Truyền thuyết cậu bé chăn trâu Đinh Bộ Lĩnh lấy hoa lau làm cờ cùng chúng bạn chia đội tập trận. Khi bị chú đuổi rượt, đến bến sông có hai con rồng vàng hiện lên chở qua sông thoát nạn.",
+        "tinh_chat": "Truyền thuyết dân gian gắn liền sử tích",
+        "ma_nguon": "SRC011"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Năm 968 đến năm 1010 và các thời sau",
+        "noi_dung": "Hoa Lư là kinh đô trong suốt 42 năm (nhà Đinh 12 năm, nhà Tiền Lê 29 năm và đầu triều Lý 1 năm trước khi Lý Thái Tổ dời đô về Thăng Long năm 1010). Các đền thờ được người dân dựng lại trên nền cung điện xưa.",
+        "ma_nguon": "SRC011"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2012,
+        "van_ban": "Quyết định số 548/QĐ-TTg ngày 10/5/2012",
+        "ma_nguon": "SRC011"
+      },
+      {
+        "danh_hieu": "Di sản Văn hóa và Thiên nhiên Thế giới (thuộc Quần thể danh thắng Tràng An)",
+        "co_quan": "UNESCO",
+        "nam": 2014,
+        "van_ban": "Quyết định số 38 COM 8B.14 ngày 23/6/2014",
+        "ma_nguon": "SRC011"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Cổng vào Đền Vua Đinh Tiên Hoàng giữa dãy núi đá vôi Hoa Lư hùng vĩ",
+        "nguon_anh": "Ảnh tư liệu Trung tâm Bảo tồn Di tích Cố đô Hoa Lư",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC011",
+      "SRC001",
+      "SRC003"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  },
+  {
+    "id": "DS010",
+    "ten_chinh_thuc": "Khu di tích Lam Kinh gắn với Lê Lợi và khởi nghĩa Lam Sơn",
+    "ten_goi_khac": [
+      "Khu di tích lịch sử Lam Kinh",
+      "Thành Lam Kinh",
+      "Tây Kinh"
+    ],
+    "nhom_chu_de": "Anh hùng dân tộc",
+    "loai_hinh": "Di tích quốc gia đặc biệt",
+    "nhan_vat_tho_phung": [
+      "Anh hùng dân tộc Lê Lợi (Vua Lê Thái Tổ)",
+      "Các Hoàng đế và Hoàng thái hậu triều Hậu Lê",
+      "Các khai quốc công thần khởi nghĩa Lam Sơn"
+    ],
+    "dia_phuong": {
+      "tinh_thanh": "Thanh Hóa",
+      "quan_huyen": "Huyện Thọ Xuân",
+      "xa_phuong": "Thị trấn Lam Sơn và xã Xuân Lam",
+      "dia_chi": "Thị trấn Lam Sơn, huyện Thọ Xuân, tỉnh Thanh Hóa"
+    },
+    "toa_do": {
+      "vi_do": 19.9075,
+      "kinh_do": 105.4055
+    },
+    "mo_ta_dac_trung": "Lam Kinh (Tây Kinh) là quê hương phát tích khởi nghĩa Lam Sơn 10 năm gian khổ (1418 - 1428) lật đổ ách đô hộ nhà Minh. Quần thể gồm lăng miếu các vua triều Hậu Lê, sông Ngọc, cầu Bạch, điện Lam Kinh và đặc biệt là bia Vĩnh Lăng bằng đá trầm tích nguyên khối ca ngợi công đức vua Lê Thái Tổ.",
+    "le_thuc": [
+      {
+        "tieu_de": "Lễ hội Lam Kinh ngày 22 tháng 8 âm lịch",
+        "thoi_gian": "Ngày 22 tháng 8 âm lịch (ngày mất của vua Lê Thái Tổ)",
+        "noi_dung": "Lễ dâng hương tế bái truyền thống, diễn tấu cồng chiêng, múa xuân phả, tái hiện Hội thề Lũng Nhai và lễ đăng quang của vua Lê Thái Tổ.",
+        "ma_nguon": "SRC012"
+      }
+    ],
+    "truyen_thuyet": [
+      {
+        "tieu_de": "Hội thề Lũng Nhai và Sự tích Trả gươm thần Thuận Thiên",
+        "noi_dung": "Năm 1416, Lê Lợi cùng 18 nghĩa sĩ thân tín cắt máu ăn thề tại Lũng Nhai nguyện một lòng cứu nước. Huyền tích Rùa Vàng cho mượn gươm thần Thuận Thiên dẹp tan quân Minh rồi đòi lại gươm tại hồ Tả Vọng (Hồ Gươm Thăng Long).",
+        "tinh_chat": "Truyền thuyết dân gian gắn với địa danh lịch sử",
+        "ma_nguon": "SRC012"
+      }
+    ],
+    "lich_su_hinh_thanh": [
+      {
+        "giai_doan": "Năm 1433 đến thời Lê Trung Hưng",
+        "noi_dung": "Năm 1433 sau khi Lê Thái Tổ băng hà, thi hài được đưa về an táng tại Lam Kinh. Triều đình cho xây dựng các cung điện làm nơi nghỉ ngơi cho các vua về bái yết tiên tổ.",
+        "ma_nguon": "SRC012"
+      }
+    ],
+    "thong_tin_ghi_danh": [
+      {
+        "danh_hieu": "Di tích quốc gia đặc biệt",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2012,
+        "van_ban": "Quyết định số 1419/QĐ-TTg ngày 27/9/2012",
+        "ma_nguon": "SRC012"
+      },
+      {
+        "danh_hieu": "Bảo vật quốc gia (Bia Vĩnh Lăng)",
+        "co_quan": "Thủ tướng Chính phủ",
+        "nam": 2013,
+        "van_ban": "Quyết định công nhận Bảo vật quốc gia năm 2013",
+        "ma_nguon": "SRC002"
+      }
+    ],
+    "hinh_anh_tu_lieu": [
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80",
+        "chu_thich": "Cầu Bạch và Chính điện Lam Kinh phục dựng theo kiến trúc gỗ triều Lê",
+        "nguon_anh": "Ảnh tư liệu Ban Quản lý Di tích Lịch sử Lam Kinh",
+        "ban_quyen": "Tư liệu minh họa truyền thông văn hóa"
+      }
+    ],
+    "nguon_tu_lieu": [
+      "SRC012",
+      "SRC003",
+      "SRC002"
+    ],
+    "trang_thai_xac_minh": "da_xac_minh",
+    "ngay_cap_nhat": "2026-10-29"
+  }
+]

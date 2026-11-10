@@ -1,0 +1,10 @@
+{
+  "name": "Tín ngưỡng thờ Hùng Vương và Anh hùng dân tộc Việt Nam",
+  "description": "Website tra cứu, tìm hiểu tín ngưỡng thờ cúng Hùng Vương, các di tích thờ phụng và anh hùng dân tộc Việt Nam với dữ liệu kiểm chứng và hỏi đáp Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
